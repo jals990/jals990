@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jals990&color=yellow" alt="Profile views" /> </p>
+
 <!--
 **jals990/jals990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
